@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class Helloworld {
     public static void main(String[] args) {
         System.out.println("Helloworld");
@@ -10,5 +12,8 @@ public class Helloworld {
             }
             System.out.println();
         }
+
+        // HashMap 연습
+        HashMap<String, Object> maps = new HashMap<String, Object>();
     }
 }
