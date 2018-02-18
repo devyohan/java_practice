@@ -15,5 +15,7 @@ public class Helloworld {
 
         // HashMap 연습
         HashMap<String, Object> maps = new HashMap<String, Object>();
+
+        maps.put("test", "Object");
     }
 }
